@@ -9,7 +9,6 @@ This is an exercise done with JS. :art:
 
 ## Features
 * Change the variables spacing, blur and color
-* Watch them being updated
 
 ## Technologies
 * JavaScript :heart_eyes_cat:
