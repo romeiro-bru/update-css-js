@@ -12,8 +12,6 @@ img {
     padding: var(--spacing);
     background: var(--base);
     filter: blur(var(--blur));
-    width: 400px;
-    height: 500px;
     border-radius: 3px;
 }
 
